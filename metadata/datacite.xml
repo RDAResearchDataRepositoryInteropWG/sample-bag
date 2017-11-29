@@ -1,0 +1,37 @@
+<resource xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">10.5072/D3P26Q35R-Test</identifier>
+<creators>
+  <creator>
+    <creatorName>Jejkal, Thomas</creatorName>
+    <nameIdentifier>0000-0003-2804-688X</nameIdentifier>
+    <nameIdentifierScheme>ORCID</nameIdentifierScheme>
+  </creator>
+  <creator>
+    <creatorName>Wilcox, David</creatorName>
+    <nameIdentifier>0000-0001-5411-9208</nameIdentifier>
+    <nameIdentifierScheme>ORCID</nameIdentifierScheme>
+  </creator>
+  <creator>
+    <creatorName>Members of the RDA Research Data Repository Interoperability WG</creatorName>
+  </creator>
+</creators>
+  <titles>
+    <title>Research Data Repository Interoperability Primer</title>
+  </titles>
+<publisher>Research Data Alliance</publisher>
+<publicationYear>2017</publicationYear>
+<subjects>
+  <subject>Repository Platform</subject>
+  <subject>Interoperability</subject>
+  <subject>Standards</subject>
+  <subject>API</subject>
+  <subject>Tools</subject>
+</subjects>
+<language>eng</language>
+<resourceType resourceTypeGeneral="Text">RDA Working Group Deliverable</resourceType>
+<version>1</version>
+<descriptions>
+  <description descriptionType="Abstract">Huge amounts of research data stored in a multitude of research data repository platforms can often only be used by a comparably small audience. On the one hand, this is caused by differences in semantics, underlying data models and metadata schemas, whose complexity and number prevents scientists from taking advantage of them. On the other hand, a lack of interoperability between research data repository platforms causes research data not to be used to their full potential. The goal of the RDA Research Data Repository Interoperability WG (RDRIWG) is to achieve consensus on an adoptable approach to facilitating research data repository interoperability for a defined set of initial use cases.
+    </description>
+  </descriptions>
+</resource>

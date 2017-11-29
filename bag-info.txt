@@ -1,0 +1,9 @@
+Bagging-Date: 2017-11-29
+Contact-Phone: +49 721 608-24042
+Contact-Email: thomas.jejkal@kit.edu
+External-Identifier: 10.15497/RDA00020
+External-Description: Packaging containing the Research Data Repository Interoperability WG primer document.
+Bag-Size: 135 KB
+Payload-Oxum: 131643.1
+Source-Identifier: RDA File Repository
+BagIt-Profile-Identifier: https://raw.githubusercontent.com/RDAResearchDataRepositoryInteropWG/bagit-profiles/master/generic/0.1/profile.json
