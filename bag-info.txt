@@ -1,5 +1,7 @@
 Bagging-Date: 2017-11-29
 Contact-Phone: +49 721 608-24042
+Source-Organization: Research Data Alliance
+Contact-Name: Thomas Jejkal
 Contact-Email: thomas.jejkal@kit.edu
 External-Identifier: 10.15497/RDA00020
 External-Description: Packaging containing the Research Data Repository Interoperability WG primer document.
